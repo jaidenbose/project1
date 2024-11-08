@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Burnosi Microwave Oven Model A",
+            "price": 421.11,
+            "image": "images/model_a.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Burnosi Microwave Oven Model B",
+            "price": 369.99,
+            "image": "images/model_b.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Burnosi Microwave Oven Model C",
+            "price": 379.99,
+            "image": "images/model_c.jpg"
+        }
+    ]
+}
